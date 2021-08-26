@@ -1,10 +1,10 @@
 # Welcome to Skillet and Shaker! 
-## Your one stop for awesome food and drink recipes.
-#### This is a web application designed using HTML, CSS, JS, Bulma, the Edamam food recipe finding API, and the CocktailDB API allowing users to search for drink recipes, and save the results.
+
+#### This is a web application designed using HTML, CSS, JS, Bulma, the Edamam food recipe API, and the CocktailDB API allowing users to search for food and drink recipes, and save the results.
 
 ## Link to Deployed Site
 
-[Skillet and Shaker](https://likearollinson.github.io/recipe-finder/)
+[Skillet and Shaker](https://grinninbarrett.github.io/recipe-finder/)
 
 ## Table of Contents
   * [Motivation and Technologies](#motivation)
@@ -35,6 +35,7 @@ As a team, we aimed to create a web application for users looking for cocktail o
 ![food-search-demo](https://user-images.githubusercontent.com/82903201/126918472-297fd7f9-78dd-4054-bf97-826d5cadbcc3.gif)
 
 ![drink-search-demo](https://user-images.githubusercontent.com/82903201/126918473-6e669972-6cad-45ee-96f9-62901c6fe355.gif)
+
 #### The demo shows the main functions of Skillet and Shaker recipe finder:
 * The landing page introduces the site, has buttons to navigate to the Food and Drink search pages, and includes a "Featured Recipes" section for users who prefer not to spend time searching.
 * Users click on either "Search Food" or "Drink Search" in the navbar which leads them to a page for finding food recipes or drink recipes by certain search parameters. 
@@ -89,13 +90,9 @@ The major challenge we faced with the development of this application was dealin
 * Optimize dynamic creation, searches, and functions 
 
 ## License
-Copyright 2021 Charles Barrett, Chris Mattix, Nick Hyman, and Brad Rollinson
+&copy; 2021 Charles Tucker Barrett, Chris Mattix, Nick Hyman, and Brad Rollinson
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+[MIT License](https://opensource.org/licenses/MIT)
 
 ## Contact Me and the Team
 * Me: ctbarrett.tech@gmail.com
